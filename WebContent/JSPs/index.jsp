@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<div class="container">
-			<h1>INDEX PAGE</h1>
+			<h1>Bem Vindo ${param.usuario}</h1>
 		</div>
 		<%@ include file="footer.jsp" %>
 	</body>
